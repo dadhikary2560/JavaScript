@@ -15,3 +15,9 @@ console.log(b);
 console.log(a+b); //concatination
 
 console.log(a.replace('t', 'ta'));  //replacing t of Debabrat with ta
+
+let c="Hello \nWorld"
+console.log(c);
+
+let d="Hello\tworld"
+console.log(d);
