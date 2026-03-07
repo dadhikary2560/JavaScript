@@ -7,4 +7,5 @@ for(let i=0;i<arr.length;i++)
     arr[i]=arr[i]-arr[i]*discount;
     console.log("discounted", num, "value: "+arr[i]);
 }
+
 console.log(arr);
