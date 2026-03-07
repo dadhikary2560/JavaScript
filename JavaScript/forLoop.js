@@ -1,5 +1,4 @@
 //for Loop program
-
 let lines=prompt("please enter how many lines you want");
 
 for(let i=1;i<=lines;i++)
