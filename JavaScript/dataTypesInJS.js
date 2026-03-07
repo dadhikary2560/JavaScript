@@ -1,5 +1,6 @@
 //Different datatypes in javaScript
 
+
 //Numbers
 let x=70;
 console.log("data type of x is: ", typeof(x), " & value of x: " ,x);
