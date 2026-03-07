@@ -7,7 +7,6 @@ if(b>10)
 }
 console.log("----------------------------------------");
 
-
 //if-else
 let input=prompt("hi! please enter a value");
 console.log("value received from user end: ", input);
