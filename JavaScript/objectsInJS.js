@@ -12,7 +12,6 @@ console.log(Student.fullName);
 console.log(Student.cgpa);
 
 //object creation with CONST
-
 const student2=
 {
     age: 32,
