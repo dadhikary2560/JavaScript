@@ -1,6 +1,6 @@
 //Arithmatic Operator
 
- let a=5;
+let a=5;
 let b=7;
 console.log("a+b is: ", a+b);
 console.log("a-b is: ", a-b);
