@@ -1,5 +1,4 @@
 //variable declaration with let
-
 let x=10;
 x="Debabrat";  //maintaing dynamicity in JavaScript
 //However let x="Debabrat" is not allowed
